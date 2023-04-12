@@ -1,0 +1,9 @@
+h1 {
+    font-family: Verdana;
+    background-color: grey;
+    color: red;
+}
+
+.important {
+    background-color: yellow;
+}
